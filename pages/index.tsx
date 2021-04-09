@@ -9,7 +9,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>LevelDown</title>
-        <link rel="icon" href="\images\NextLink.png" />
+        <link rel="icon" href="/images/NextLink.png" />
       </Head>
 
       <main className={styles.main}>
