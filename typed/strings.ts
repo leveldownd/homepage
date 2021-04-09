@@ -1,2 +1,2 @@
-const strings: string[] = ["Welcome to NextLink."];
+const strings: string[] = ["Hi, we are LevelDown."];
 export default strings;
