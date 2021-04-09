@@ -28,6 +28,9 @@ export default function Home() {
         <p className={styles.description}>
           We are dedicated to provide people with open-source software that is
           made with peace of mind.
+          <br />
+          <a href="https://github.com/leveldownd">GitHub</a> ·{" "}
+          <a href="mailto:matt@mattlawz.dev">Contact</a>
         </p>
       </main>
     </div>
